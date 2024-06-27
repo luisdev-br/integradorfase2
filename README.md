@@ -2,7 +2,7 @@ Projeto Integrador Fase II
 
 Integrantes:
 
-Wesley Matheus Santos Silva
+Wesley Matheus Santos Silva /n
 Ademário de Sousa Neto
 Luis Eduardo de Oliveira Ramos
 Wendel Gomes de Castro
